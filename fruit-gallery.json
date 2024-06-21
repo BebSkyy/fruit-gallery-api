@@ -1,0 +1,35 @@
+{
+    "gallery": [
+      {
+        "id": 1,
+        "name": "Apple",
+        "image": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?cs=srgb&dl=pexels-mali-102104.jpg&fm=jpg",
+        "description": "A sweet red fruit."
+      },
+      {
+        "id": 2,
+        "name": "Banana",
+        "image": "https://cdn.pixabay.com/photo/2016/06/29/22/37/bananas-1487965_960_720.jpg",
+        "description": "A long yellow fruit."
+      },
+      {
+        "id": 3,
+        "name": "Cherry",
+        "image": "https://cdn.pixabay.com/photo/2013/07/26/03/42/cherry-167341_640.jpg",
+        "description": "A small, round red fruit."
+      },
+      {
+        "id": 4,
+        "name": "Durian",
+        "image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/12/28/3499e2dd-3202-4621-8b4c-bbe8f8189d5e.png",
+        "description": "A large, spiky fruit with a strong smell."
+      },
+      {
+        "id": 5,
+        "name": "Elderberry",
+        "image": "https://asset.kompas.com/crops/iOjXJVGjMRlHu5nrfrkYePIVcA4=/0x0:780x520/750x500/data/photo/2020/07/28/5f1f9efe25cce.jpg",
+        "description": "A small, dark purple fruit."
+      }
+    ]
+  }
+  
